@@ -27,7 +27,7 @@ const Checkout = () => {
                 </FormGroup>
 
                 <FormGroup className='form__group'>
-                  <input type="text" placeholder='Street Address' />
+                  <input type="text" placeholder='Street Address' /> 
                 </FormGroup>
 
                 <FormGroup className='form__group'>
